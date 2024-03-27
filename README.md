@@ -8,7 +8,7 @@ Este repositório contém uma coleção de exercícios básicos em Python para a
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/yan0606/list_of_basic_python_exercises.git
+git clone https://github.com/yan0606/list_of_basic_python_exercises
 
 ```
 
