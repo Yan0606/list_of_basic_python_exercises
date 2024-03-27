@@ -39,4 +39,4 @@ Contribuições são bem-vindas! Se você deseja adicionar mais exercícios, mel
 Certifique-se de que seus exercícios tenham descrições claras e soluções testadas.
 
 ---
-Criado com ❤️ por [Yan Andrade](https://github.com/Yan0606)
+Criado com ❤️ por [Yan Andrade](https://www.linkedin.com/in/yan-andrade-57b202196/)
