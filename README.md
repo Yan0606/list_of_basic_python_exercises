@@ -1,7 +1,6 @@
 # Python Exercises
 
-Este repositório contém uma coleção de exercícios básicos em Python para ajudar iniciantes a praticar e aprimorar suas habilidades de programação. Cada exercício está categorizado e acompanhado de uma solução simples para referência.
-
+Este repositório contém uma coleção de exercícios básicos em Python para praticar minhas habilidades em programação.
 
 ## Como Usar
 
